@@ -10,7 +10,7 @@
 
 - SVD can be used for lineair regression:
 - We know that if A is not a square matrix we can't use the inverse of A to solve A x = b
-- However, We can use SVD to solve this.
+- However, we can use SVD to solve this.
 - to get an exact solution b needs to be in the column space of A if not we can:
 - A = U @ S @ V^T
 - A* = U* @ S* @ V^T*

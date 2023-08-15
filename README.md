@@ -19,4 +19,4 @@
 - U* @ S* @ V^T* x = b
 - x = V @ S^-1@ U^T @ b
 - This is the least squared solution for x
-- 
+
